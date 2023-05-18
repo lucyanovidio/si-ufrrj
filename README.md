@@ -1,3 +1,5 @@
-# SI UFRRJ
+# Sistemas de Informação - UFRRJ
 
-Atividades e pequenos projetos desenvolvidos durante a graduação em Sistemas de Informação na UFRRJ.
+> Em construção 🛠️
+
+Atividades, anotações e pequenos projetos desenvolvidos durante a graduação em Sistemas de Informação na UFRRJ.
