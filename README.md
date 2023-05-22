@@ -1,4 +1,4 @@
-# Sistemas de Informação - UFRRJ
+# Sistemas de Informação - UFRRJ 🎓
 
 > Em construção 🛠️
 
