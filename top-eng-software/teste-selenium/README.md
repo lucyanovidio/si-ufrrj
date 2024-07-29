@@ -8,7 +8,7 @@ Atividade de desenvolvimento de testes automatizados de sistema, abordando um si
 
 Foi usado o <a href="https://www.selenium.dev/documentation/webdriver/">Selenium Webdriver</a> e o framework <a href="https://mochajs.org">Mocha</a>.
 
-A atividade automatizada realiza testes simples: obtém o título da página web inicial do SIGAA, entra no sistema com usuário e senha fornecidos, e e confere o cabeçalho padrão para todo usuário ("Minhas turmas"), presente na home page.
+A atividade automatizada realiza testes simples: obtém o título da página web inicial do SIGAA, entra no sistema com usuário e senha fornecidos, e confere o cabeçalho padrão para todo usuário ("Minhas turmas"), presente na home page.
 
 ## Como rodar
 
